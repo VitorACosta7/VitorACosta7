@@ -1,0 +1,3 @@
+- Hi, I’m @VitorACosta7!
+- Beginner in the programming field.
+- Recently enrolled in Information Systems, I started studying Python and I still intend to learn more programming languages
