@@ -2,6 +2,5 @@
 - Python Programmer
 - WhatsApp: (17) 99671 - 9942
 - E-mail: vitoracosta@outlook.com.br
-- Linkedin: https://www.linkedin.com/in/vitor-ara%C3%BAjo-016b75319/
-- https://www.linkedin.com/in/vitoracosta07/
+- Linkedin: https://www.linkedin.com/in/vitoracosta07/
 - Information Systems 3/8
