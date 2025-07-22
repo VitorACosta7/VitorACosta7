@@ -1,6 +1,7 @@
 - Hi, I’m @VitorACosta7!
-- Beginner in the programming field.
-- Recently enrolled in Information Systems, I started studying Python and I still intend to learn more programming languages
+- Python Programmer
 - WhatsApp: (17) 99671 - 9942
-- Linkedin: https://www.linkedin.com/in/vitor-ara%C3%BAjo-016b75319/ 
-- Information Systems 1/8
+- E-mail: vitoracosta@outlook.com.br
+- Linkedin: https://www.linkedin.com/in/vitor-ara%C3%BAjo-016b75319/
+- https://www.linkedin.com/in/vitoracosta07/
+- Information Systems 3/8
